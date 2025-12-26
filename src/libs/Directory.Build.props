@@ -12,7 +12,8 @@
   <PropertyGroup Label="Nuget">
     <GeneratePackageOnBuild Condition=" '$(Configuration)' == 'Release' ">true</GeneratePackageOnBuild>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <Authors>tryAGI and contributors</Authors>
+    <Authors>Gunpal Jain</Authors>
+    <Company>Argentron Technologies</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>nuget_icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>

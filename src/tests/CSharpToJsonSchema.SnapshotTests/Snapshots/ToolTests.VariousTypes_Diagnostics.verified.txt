@@ -1,0 +1,128 @@
+﻿[
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  },
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  },
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  },
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  },
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  },
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  },
+  {
+    Message: Assembly 'CSharpToJsonSchema' with identity 'CSharpToJsonSchema, Version=0.0.0.0, Culture=neutral, PublicKeyToken=20925763ef4043f0' uses 'System.Text.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' which has a higher version than referenced assembly 'System.Text.Json' with identity 'System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51',
+    Severity: Error,
+    Descriptor: {
+      Id: CS1705,
+      Title: ,
+      HelpLink: https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1705),
+      MessageFormat: Assembly '{0}' with identity '{1}' uses '{2}' which has a higher version than referenced assembly '{3}' with identity '{4}',
+      Category: Compiler,
+      DefaultSeverity: Error,
+      IsEnabledByDefault: true,
+      CustomTags: [
+        Compiler,
+        Telemetry,
+        NotConfigurable
+      ]
+    }
+  }
+]
